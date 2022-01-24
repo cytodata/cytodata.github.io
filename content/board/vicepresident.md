@@ -8,4 +8,5 @@ image: cytodataAvatar.png
 ---
 
 - **Responsibilities**
-  - Mentor current president, document responsibilities and pass along to current president
+  - Assist current president, learn the ropes
+  - Automatically becomes President the following year

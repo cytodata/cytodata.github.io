@@ -11,5 +11,4 @@ I am a senior scientist working at the [Institute for Molecular Medicine Finland
 My background is in computer science, bioimage informatics and software engineering.
 
 - **Responsibilities**
-  - Lead the committee, keeping the society’s vision and strategy in mind
-  - Automatically becomes Past president the following year
+  - Mentor current president, document responsibilities and pass along to current president
