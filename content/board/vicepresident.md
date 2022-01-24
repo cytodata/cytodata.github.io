@@ -1,5 +1,5 @@
 ---
-title: "Past president"
+title: "Vice-president"
 tagline: "Not Selected"
 date: 2021-01-01
 publishdate: 1970-01-01

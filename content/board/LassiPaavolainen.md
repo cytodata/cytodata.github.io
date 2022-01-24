@@ -1,7 +1,7 @@
 ---
 title: "Lassi Paavolainen"
-tagline: "President"
-date: 2018-07-13
+tagline: "Past president"
+date: 2022-01-18
 publishdate: 1970-01-01
 weight: 1
 image: boardAvatars/LassiPaavolainen.jpg
