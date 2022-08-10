@@ -4,9 +4,8 @@ tagline: "Symposium organizer"
 date: 2022-06-14
 publishdate: 1970-01-01
 weight: 4
-image: aics-logo-white.png
+image: aics-logo-white-square.jpeg
 ---
-
 
 - **Responsibilities**
   - Organize the annual CytoData symposium, with inputs from the committee and the members
