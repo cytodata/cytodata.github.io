@@ -1,12 +1,13 @@
 ---
 title: "Loan Vulliard"
-tagline: "Resource officer"
+tagline: "Vice-president"
 date: 2021-01-12
 publishdate: 1970-01-01
 weight: 16
 image: boardAvatars/LoanVuillard.jpg
 ---
-[Loan Vulliard](http://vulliard.loan/) is currently a Predoctoral Fellow in the [group of Jörg Menche](https://menchelab.com/) ([Max Perutz Labs](https://www.maxperutzlabs.ac.at/) and [CeMM](https://cemm.at/)). His interests include the development and application of modern computational techniques to better understand human health and disease. He is in particular working with high-content imaging screens to systematically profile cellular responses to chemical and genetic perturbations. 
+[Loan Vulliard](http://vulliard.loan/) is currently AIH Postdoctoral Fellow at the [DKFZ in Heidelberg, Germany](https://www.dkfz.de/). He works together with [Felix Hartmann](https://www.dkfz.de/en/systemimmunologie-und-einzelzell-biologie/index.php) and [Julio Saez-Rodriguez](https://saezlab.org/) to reveal the quantitative principles underlying molecular biology and to better understand human health and diseases. For this, he uses data analysis methods and collaborate with experimentalists and experts in the fields of immunology and cell biology. In particular, he is developing machine learning approaches to identify and contextualize spatial patterns in multiplexed ion beam imaging (MIBI) data.
 
 - **Responsibilities**
-  - Create and maintain list of community software libraries for data analysis, bibliography of literature in the field, and benchmark datasets.
+  - Assist current president, learn the ropes
+  - Automatically becomes President the following year

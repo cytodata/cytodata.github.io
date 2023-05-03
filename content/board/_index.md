@@ -2,14 +2,9 @@
 title: "Board"
 ---
 
-The society has eleven board positions.
+The society is steered by a board, currently comprised of 8 members.
 The positions are open to anyone.
-Three out of the eleven positions must be held by early career researchers.
-
-- **Responsibilities**
-  - Set strategy/policy about events and site selection
-  - Assist Symposium organizer to find sponsors to offset costs, or contribute to grants to support the meeting
-  - Role specific responsibilities
+At least three positions must be held by early career researchers.
 
 ## Election process
 
