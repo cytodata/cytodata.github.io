@@ -1,6 +1,6 @@
 ---
 title: "Loan Vulliard"
-tagline: "Vice-president"
+tagline: "Vice president"
 date: 2021-01-12
 publishdate: 1970-01-01
 weight: 16
