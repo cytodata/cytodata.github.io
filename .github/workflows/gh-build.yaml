@@ -3,7 +3,8 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - master
+      - move_to_github_actions #TODO remove
   pull_request:
 
 jobs:
