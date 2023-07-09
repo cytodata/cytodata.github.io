@@ -1,6 +1,6 @@
 ---
 title: "Lassi Paavolainen"
-tagline: "Past president"
+tagline: "Past president and Event organizer"
 date: 2022-01-18
 publishdate: 1970-01-01
 weight: 1
