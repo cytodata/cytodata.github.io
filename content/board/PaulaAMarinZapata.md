@@ -3,7 +3,7 @@ title: "Paula A. Marin Zapata"
 tagline: "Communications officer"
 date: 2021-01-12
 publishdate: 1970-01-01
-weight: 11
+weight: 13
 image: boardAvatars/PaulaAMarinZapata.jpg
 ---
 

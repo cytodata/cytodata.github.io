@@ -3,7 +3,7 @@ title: "John Arevalo"
 tagline: "Board member"
 date: 2023-03-07
 publishdate: 1970-01-01
-weight: 2
+weight: 7
 image: boardAvatars/JohnArevalo.jpg
 ---
 

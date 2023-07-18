@@ -3,7 +3,7 @@ title: "Alexandr Kalinin"
 tagline: "Board member"
 date: 2023-03-07
 publishdate: 1970-01-01
-weight: 2
+weight: 5
 image: boardAvatars/AlexKalinin.jpg
 ---
 

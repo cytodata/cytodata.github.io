@@ -3,7 +3,7 @@ title: "Juan Caicedo"
 tagline: "President"
 date: 2022-01-18
 publishdate: 1970-01-01
-weight: 2
+weight: 1
 image: boardAvatars/JuanCaicedo.jpg
 ---
 
