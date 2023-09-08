@@ -3,7 +3,7 @@ title: "CytoData Society"
 ---
 
 ![CytoData banner](/./main_files/cytodata-banner.png)
-The field of image-based profiling is still in its infancy, and its adoption has been slow, primarily due to the data analysis challenges posed, the large imaging experiments required, and the lack of ground-truth data sets where relationships among images are known. The CytoData Society aims to bring image-based profiling into the mainstream by organizing a striving community working on this technology.
+Using images to measure cellular phenotypes is a proven methodology for advancing biological research, and has been applied in drug discovery and functional genomics. Quantifying cellular phenotypes with images requires novel computational methods to accurately represent and transform images of cells into useful information. The CytoData Society has brought together a community of scientists from academia and industry to discuss the latest advances in these topics for several years. Our goal is to realize the full potential of image-driven biomedical research by advancing computational techniques to make the most out of existing and new imaging modalities.
 
 To stay connected and get the latest updates and news for the CytoData Society and CytoData Symposium please sign up here:
 
