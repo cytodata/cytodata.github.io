@@ -1,6 +1,6 @@
 ---
 title: "Lassi Paavolainen"
-tagline: "Event organizer"
+tagline: "Board member"
 date: 2022-01-18
 publishdate: 1970-01-01
 weight: 10
