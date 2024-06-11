@@ -2,9 +2,9 @@
 title: "Loan Vulliard"
 tagline: "President"
 date: 2021-01-12
-weight: 2
+weight: -1
 cover:
-    image: "main_files/boardAvatars/LoanVuillard.jpg"
+    image: "main_files/boardAvatars/LoanVulliard.jpg"
     thumbnailInList: true
     relative: true # when using page bundles set this to true
 ---
