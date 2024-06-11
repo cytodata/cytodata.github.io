@@ -2,12 +2,11 @@
 title: "John Arevalo"
 tagline: "Board member"
 date: 2023-03-07
+publishdate: 1970-01-01
 weight: 7
-cover:
-    image: "main_files/boardAvatars/JohnArevalo.jpg"
-    thumbnailInList: true
-    relative: true # when using page bundles set this to true
+image: boardAvatars/JohnArevalo.jpg
 ---
+
 John Arevalo is a postdoctoral fellow at the [Imaging
 Platform](https://www.broadinstitute.org/imaging) in the [Broad Institute of
 Harvard and MIT](https://www.broadinstitute.org/). He works with [Anne
