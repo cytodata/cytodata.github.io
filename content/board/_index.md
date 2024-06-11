@@ -2,7 +2,7 @@
 title: "Board"
 ---
 
-The society is steered by a board, currently comprised of {{< countPages >}} members.
+The society is steered by a board, currently comprised of 8 members.
 The positions are open to anyone.
 At least three positions must be held by early career researchers.
 
