@@ -1,6 +1,5 @@
 # If you have questions regarding the website, please contact Ziqi Kang: ziqi.kang@helsinki.fi
 
-baseURL: http://cytodata.org/
 languageCode: en-us
 title: CytoData Society
 theme: ["PaperMod_modified"]
