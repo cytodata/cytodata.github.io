@@ -5,7 +5,7 @@
   HUGO_VERSION = "0.127.0"
 
 [context.production]
-  command = "hugo"
+  command = "hugo --baseURL https://society.cytodata.org"
 
 [context.deploy-preview]
   command = "hugo --baseURL $DEPLOY_PRIME_URL"
