@@ -4,7 +4,7 @@
     <title>Board on CytoData Society</title>
     <link>https://www.cytodata.org/board/</link>
     <description>Recent content in Board on CytoData Society</description>
-    <generator>Hugo -- 0.133.0</generator>
+    <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/board/index.xml" rel="self" type="application/rss+xml" />
@@ -90,6 +90,14 @@ Responsibilities Contribute to shaping the society&amp;rsquo;s mission and initi
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/board/brianfeng/</guid>
       <description>Brian is currently a Principal Investigator at Calico Labs, a aging-focused biotechnology company. Brian’s lab uses scalable, information-rich methods such as high-content imaging to study cellular phenotypes associated with aging and age-related diseases. His group collaborates extensively with data scientists to tease out unexpected observations from complex, multidimensional data. Prior to joining Calico, Brian spent many years working at Novartis, applying phenotypic screening to the discovery of new antibiotics. He has also worked at Google[x], an Alphabet-backed company specializing in “moonshot” research projects.</description>
+    </item>
+    <item>
+      <title>Zhenghao Chen</title>
+      <link>https://www.cytodata.org/board/zhenghaochen/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.cytodata.org/board/zhenghaochen/</guid>
+      <description>Zhenghao is currently director of machine learning at Calico Labs, an aging-focused biotechnology company. Zhenghao&amp;rsquo;s group focuses on developing machine learning models to extract useful representations from high-throughput, information-rich modalities including high-content imaging, single-cell sequencing and multiplexed imaging to study aging and age-related diseases.
+Responsibilities Contribute to shaping the society&amp;rsquo;s mission and initiatives. </description>
     </item>
     <item>
       <title>Erik Serrano</title>
