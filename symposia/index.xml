@@ -4,7 +4,7 @@
     <title>Symposia on CytoData Society</title>
     <link>https://www.cytodata.org/symposia/</link>
     <description>Recent content in Symposia on CytoData Society</description>
-    <generator>Hugo -- 0.133.1</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/symposia/index.xml" rel="self" type="application/rss+xml" />
@@ -13,69 +13,72 @@
       <link>https://www.cytodata.org/symposia/2024/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2024/</guid>
-      <description>CytoData in 2024 We are thrilled to announce that this year, CytoData is joining forces with SBI2! You can take part in the traditional CytoData Hackathon on September 17 (see details below), and join us from September 18-20 for an event supercharged in spatial and morphological profiling.
-The CytoData board is organizing a colloquium on &amp;ldquo;Image-based profiling of biological systems across scales and modalities&amp;rdquo; on September 18, with lectures from Auguste Genovesio, Meghan Driscoll and John Hickey, selected flash talks and a round table discussion.</description>
+      <description>&lt;h1 id=&#34;cytodata-in-2024&#34;&gt;CytoData in 2024&lt;/h1&gt;
+&lt;p&gt;We are thrilled to announce that this year, CytoData is joining forces with &lt;a href=&#34;https://sbi2.org/&#34;&gt;SBI2&lt;/a&gt;! You can take part in the traditional CytoData Hackathon on September 17 (see &lt;a href=&#34;#cytodata-2024-hackathon-at-the-broad-institute&#34;&gt;details below&lt;/a&gt;), and join us from September 18-20 for an event supercharged in spatial and morphological profiling.&lt;br&gt;
+The CytoData board is organizing a colloquium on &amp;ldquo;Image-based profiling of biological systems across scales and modalities&amp;rdquo; on September 18, with lectures from &lt;a href=&#34;https://www.ibens.bio.ens.psl.eu/spip.php?rubrique47&amp;amp;lang=en&#34;&gt;Auguste Genovesio&lt;/a&gt;, &lt;a href=&#34;https://med.umn.edu/bio/meghan-driscoll&#34;&gt;Meghan Driscoll&lt;/a&gt; and &lt;a href=&#34;https://bme.duke.edu/faculty/john-hickey&#34;&gt;John Hickey&lt;/a&gt;, selected flash talks and a round table discussion. The SBI2 society prepared an exciting line-up of workshops and speakers tailored to the bioimaging and analysis community. &lt;a href=&#34;https://sbi2.org/conference/#registration&#34;&gt;Registrations and abstract submissions are open&lt;/a&gt; and the &lt;a href=&#34;https://sbi2.org/conference/&#34;&gt;latest program can be found on the SBI2 website.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2023 - by University of Helsinki and University of Turku</title>
       <link>https://www.cytodata.org/symposia/2023/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2023/</guid>
-      <description>This year’s meeting will take place in Helsinki, Finland on October 23-26, 2023 hosted by the Institute for Molecular Medicine Finland (FIMM), the University of Helsinki and the University of Turku. The event will focus on Single-cell profiling and Spatial profiling, including a fantastic set of invited speakers, workshops, oral and poster presentations, and the popular hackathon. Check the program and submit your registration and abstract on the CytoData 2023 website.</description>
+      <description>&lt;p&gt;This year’s meeting will take place in Helsinki, Finland on October 23-26, 2023 hosted by the Institute for Molecular Medicine Finland (FIMM), the University of Helsinki and the University of Turku. The event will focus on Single-cell profiling and Spatial profiling, including a fantastic set of invited speakers, workshops, oral and poster presentations, and the popular hackathon. Check the program and submit your registration and abstract on the &lt;a href=&#34;https://www.helsinki.fi/en/conferences/cytodata-2023&#34;&gt;CytoData 2023 website&lt;/a&gt;.
+Save the date!&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2022 - by Allen Institute for Cell Science</title>
       <link>https://www.cytodata.org/symposia/2022/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2022/</guid>
-      <description>Cytodata 2022 will be hosted in-person by the Allen Institute for Cell Science in Seattle, WA on October 17-20, 2022. The Allen Institute for Cell Science is a division of the Allen Institute, whose mission is to create dynamic and multi-scale visual models of cell organization, dynamics and activities that capture experimental observation, theory and prediction to understand and predict cellular behavior in its normal, regenerative, and pathological contexts.
-This year’s theme is “Data analysis and deep learning strategies for image-based profiling in cell biology.</description>
+      <description>&lt;p&gt;Cytodata 2022 will be hosted in-person by the Allen Institute for Cell Science in &lt;strong&gt;Seattle, WA on October 17-20, 2022&lt;/strong&gt;. The Allen Institute for Cell Science is a division of the &lt;a href=&#34;https://alleninstitute.org/what-we-do/cell-science/&#34;&gt;Allen Institute&lt;/a&gt;, whose mission is to create dynamic and multi-scale visual models of cell organization, dynamics and activities that capture experimental observation, theory and prediction to understand and predict cellular behavior in its normal, regenerative, and pathological contexts.&lt;/p&gt;
+&lt;p&gt;This year’s theme is “Data analysis and deep learning strategies for image-based profiling in cell biology.” We aim to feature new tools, applications of tools, and new discoveries to bring the image-based profiling community together. More information can be found at &lt;a href=&#34;https://alleninstitute.org/what-we-do/cell-science/events-training/cytodata-symposium-2022&#34;&gt;the event website&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2021 - by bit.bio</title>
       <link>https://www.cytodata.org/symposia/2021/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2021/</guid>
-      <description>CytoData Symposium 2021 will be hosted virtually by bit.bio from October 13-15, 2021. More information can found at the website.</description>
+      <description>&lt;p&gt;CytoData Symposium 2021 will be hosted virtually by bit.bio from October 13-15, 2021.
+More information can found at &lt;a href=&#34;https://www.bit.bio/events/cytodata2021&#34;&gt;the website&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2020 - by Recursion Pharmaceuticals</title>
       <link>https://www.cytodata.org/symposia/2020/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2020/</guid>
-      <description>Because of the COVID-19 pandemic, this year’s CytoData meeting will be held virtually. Attendees will join together over video conference for an exciting two-day symposium. Each session will be approximately two hours long.
-https://www.rxrx.ai/cytodata2020</description>
+      <description>&lt;p&gt;Because of the COVID-19 pandemic, this year’s CytoData meeting will be held virtually.  Attendees will join together over video conference for an exciting two-day symposium. Each session will be approximately two hours long.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.rxrx.ai/cytodata2020&#34;&gt;https://www.rxrx.ai/cytodata2020&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2019 - by DKFZ</title>
       <link>https://www.cytodata.org/symposia/2019/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2019/</guid>
-      <description>We are honored to host the fourth CytoData Symposium and Hackathon from Oct 28-30, 2019 at the DKFZ, Heidelberg, Germany! CytoData brings together the community of researchers mining microscopy image data.
-https://2019.cytodata.org/</description>
+      <description>&lt;p&gt;We are honored to host the fourth CytoData Symposium and Hackathon from Oct 28-30, 2019 at the DKFZ, Heidelberg, Germany! CytoData brings together the community of researchers mining microscopy image data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://2019.cytodata.org/&#34;&gt;https://2019.cytodata.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2018 - by Broad Institute</title>
       <link>https://www.cytodata.org/symposia/2018/</link>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2018/</guid>
-      <description>We were honored to host the third CytoData Symposium and hackathon from Sep 21-25, 2018 at the Broad Institute, Cambridge, MA, USA! CytoData brings together the community of researchers mining microscopy image data.
-https://2018.cytodata.org/</description>
+      <description>&lt;p&gt;We were honored to host the third CytoData Symposium and hackathon from Sep 21-25, 2018 at the Broad Institute, Cambridge, MA, USA! CytoData brings together the community of researchers mining microscopy image data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://2018.cytodata.org/&#34;&gt;https://2018.cytodata.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2017 - by Institute of Cancer Research</title>
       <link>https://www.cytodata.org/symposia/2017/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2017/</guid>
-      <description>Following the success of last years Cytomining Hackathon, where data scientists from 20 of the worlds top high-content screening laboratories came together to set a path for the field, the hackathon is back. Running over 3 days and 3 nights, we’ll begin with a day of talks, networking, and discussion before getting down to the hacking itself. For the Hackathon we’ll prepare a previously unseen imaging dataset. Working in groups, your task will be to develop novel software and analysis techniques to extract information from the dataset.</description>
+      <description>&lt;p&gt;Following the success of last years Cytomining Hackathon, where data scientists from 20 of the worlds top high-content screening laboratories came together to set a path for the field, the hackathon is back. Running over 3 days and 3 nights, we’ll begin with a day of talks, networking, and discussion before getting down to the hacking itself. For the Hackathon we’ll prepare a previously unseen imaging dataset. Working in groups, your task will be to develop novel software and analysis techniques to extract information from the dataset. Following this, your group will pitch the project to a panel of judges where prizes will be awarded, and hopefully new collaborations and ideas formed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CytoData 2016 Hackaton - by Carpenter Lab</title>
       <link>https://www.cytodata.org/symposia/2016/</link>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/symposia/2016/</guid>
-      <description>Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field.
-https://2016.cytodata.org/</description>
+      <description>&lt;p&gt;Researchers mining image data are gaining momentum: papers are shifting from proof-of-principle to biological discovery. But we are not yet much of a true community, beyond reading each others’ papers and a few pairwise interactions at conferences. We would like to change this by bringing everyone together in the same room! Collectively, we have tremendous knowledge and insights into this challenging field.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://2016.cytodata.org/&#34;&gt;https://2016.cytodata.org/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
