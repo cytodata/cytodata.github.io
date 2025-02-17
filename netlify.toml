@@ -1,6 +1,9 @@
 [build]
   publish = "public"
 
+[params]
+	social = true
+
 [build.environment]
   HUGO_VERSION = "0.127.0"
 
