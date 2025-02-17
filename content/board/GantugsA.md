@@ -1,7 +1,7 @@
 ---
 title: "Gantugs Atarsaikhan"
 tagline: "Board member"
-date: 2025-01-1
+date: 2025-01-01
 weight: 18
 cover:
     image: "main_files/boardAvatars/GantugsA.jpg"
