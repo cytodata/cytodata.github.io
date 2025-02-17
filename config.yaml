@@ -7,9 +7,9 @@ theme: ["PaperMod_modified"]
 
 menu:
   main:
-    - identifier: 2024
-      name: Cytodata 2024
-      url: /symposia/2024/
+    - identifier: 2025
+      name: Cytodata 2025
+      url: /symposia/2025/
       weight: 5
     - identifier: symposia
       name: Symposia
