@@ -91,16 +91,3 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
-
-/* Change color on hover */
-a:hover {
-    color: var(--carolina_blue);
-}
-
-a.anchor:hover {
-    color: var(--carolina_blue) !important;
-}
-
-svg:hover {
-    color: var(--carolina_blue);
-}

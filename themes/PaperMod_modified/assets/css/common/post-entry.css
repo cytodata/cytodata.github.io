@@ -106,16 +106,3 @@
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
 }
-
-/* Change color on hover */
-a:hover {
-    color: var(--carolina_blue);
-}
-
-a.anchor:hover {
-    color: var(--carolina_blue) !important;
-}
-
-svg:hover {
-    color: var(--carolina_blue);
-}
