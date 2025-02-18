@@ -4,10 +4,22 @@
     <title>Symposia on CytoData Society</title>
     <link>https://www.cytodata.org/symposia/</link>
     <description>Recent content in Symposia on CytoData Society</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/symposia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CytoData 2025 - by EU-OPENSCREEN, MDC and FMP</title>
+      <link>https://www.cytodata.org/symposia/2025/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      <guid>https://www.cytodata.org/symposia/2025/</guid>
+      <description>&lt;h1 id=&#34;cytodata-2025&#34;&gt;CytoData 2025&lt;/h1&gt;
+&lt;p&gt;We are thrilled to announce that EU-OPENSCREEN, MDC, and FMP will host CytoData 2025 at the Campus Berlin-Buch, Berlin, Germany!
+The CytoData symposium will take place on &lt;strong&gt;November 20-21, 2025&lt;/strong&gt;, and will be preceded by a Hackathon from &lt;strong&gt;November 17-19, 2025&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;../../main_files/CytoData_Poster_2025.jpg&#34; alt=&#34;CytoData 2025 Poster&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Confirmed speakers: &lt;a href=&#34;https://www.helmholtz-munich.de/en/icb/pi/fabian-theis&#34;&gt;Fabian Theis&lt;/a&gt; (Helmholtz Munich, Germany), &lt;a href=&#34;https://www.uu.se/en/contact-and-organisation/staff?query=N96-5999&#34;&gt;Carolina Wählby&lt;/a&gt; (Uppsala University, Sweden), &lt;a href=&#34;https://www.broadinstitute.org/bios/shantanu-singh&#34;&gt;Shantanu Singh&lt;/a&gt; (Broad Institute, USA), &lt;a href=&#34;https://www.mpi-dortmund.mpg.de/research/departments/chemical-biology/ziegler&#34;&gt;Slava Ziegler&lt;/a&gt; (MPI-Dortmund, Germany), &lt;a href=&#34;https://pharmacology.ucsd.edu/faculty/department-faculty/johannes-schoneberg.html&#34;&gt;Johannes Schoeneberg&lt;/a&gt; (UC San Diego, USA), and &lt;a href=&#34;https://som.cuanschutz.edu/Profiles/Faculty/Profile/36217&#34;&gt;Gregory Way&lt;/a&gt; (University of Colorado, USA).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>CytoData 2024 - by the CytoData board in collaboration with SBI2</title>
       <link>https://www.cytodata.org/symposia/2024/</link>

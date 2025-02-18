@@ -4,9 +4,9 @@
     <title>Board on CytoData Society</title>
     <link>https://www.cytodata.org/board/</link>
     <description>Recent content in Board on CytoData Society</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.144.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/board/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Loan Vulliard</title>
@@ -180,6 +180,20 @@ developing software for reproducible cell morphology data analysis workflows.&lt
 &lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;
 &lt;ul&gt;
 &lt;li&gt;Contributing to CytoData and the community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Gantugs Atarsaikhan</title>
+      <link>https://www.cytodata.org/board/gantugsa/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.cytodata.org/board/gantugsa/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at the &lt;a href=&#34;https://www.fimm.fi&#34;&gt;Institute for Molecular Medicine Finland (FIMM)&lt;/a&gt;, University of Helsinki. My research focuses on developing self-supervised representation learning approaches for analyzing fluorescent microscopic images and applying these methods to various cancer samples.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Contribute to shaping the society&amp;rsquo;s mission and initiatives.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
