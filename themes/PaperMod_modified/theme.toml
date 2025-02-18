@@ -37,7 +37,7 @@ features = [
   "scroll-to-top",
   "search"
 ]
-min_version = "0.112.4"
+min_version = "0.125.7"
 
 [author]
   name = "Aditya Telange"
@@ -49,6 +49,3 @@ min_version = "0.112.4"
   author = "nanxiaobei"
   homepage = "https://github.com/nanxiaobei"
   repo = "https://github.com/nanxiaobei/hugo-paper/"
-
-[params]
-	social = true
