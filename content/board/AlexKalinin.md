@@ -1,6 +1,6 @@
 ---
 title: "Alexandr Kalinin"
-tagline: "Communication officer"
+tagline: "Vice President"
 date: 2023-03-07
 weight: 5
 cover:

@@ -1,6 +1,6 @@
 ---
 title: "Paula A. Marin Zapata"
-tagline: "Communications officer (on leave)"
+tagline: "Communications officer"
 date: 2021-01-12
 weight: 13
 cover:
