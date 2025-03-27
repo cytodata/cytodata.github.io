@@ -9,7 +9,7 @@ menu:
   main:
     - identifier: 2025
       name: Cytodata 2025
-      url: /symposia/2025/
+      url: https://cytodata25.eu-openscreen.eu/
       weight: 5
     - identifier: symposia
       name: Symposia
