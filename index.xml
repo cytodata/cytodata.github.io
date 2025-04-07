@@ -4,7 +4,7 @@
     <title>CytoData Society</title>
     <link>https://www.cytodata.org/</link>
     <description>Recent content on CytoData Society</description>
-    <generator>Hugo -- 0.144.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/index.xml" rel="self" type="application/rss+xml" />
@@ -151,6 +151,20 @@ developing software for reproducible cell morphology data analysis workflows.&lt
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.cytodata.org/board/gantugsa/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher at the &lt;a href=&#34;https://www.fimm.fi&#34;&gt;Institute for Molecular Medicine Finland (FIMM)&lt;/a&gt;, University of Helsinki. My research focuses on developing self-supervised representation learning approaches for analyzing fluorescent microscopic images and applying these methods to various cancer samples.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Contribute to shaping the society&amp;rsquo;s mission and initiatives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Nikita Moshkov</title>
+      <link>https://www.cytodata.org/board/nikitamoshkov/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.cytodata.org/board/nikitamoshkov/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at the &lt;a href=&#34;https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab&#34;&gt;Institute of Computational Biology&lt;/a&gt;, Helmholtz Munich. My research focuses on developing representation learning approaches, image-based profiling and data analysis of spatial data.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;
 &lt;ul&gt;
