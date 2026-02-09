@@ -6,7 +6,7 @@
     <description>Recent content in Board on CytoData Society</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.cytodata.org/board/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Loan Vulliard</title>
@@ -160,6 +160,13 @@ developing software for reproducible cell morphology data analysis workflows.&lt
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Christa Ringers</title>
+      <link>https://www.cytodata.org/board/christaringers/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.cytodata.org/board/christaringers/</guid>
+      <description>&lt;p&gt;Christa Ringers is a Senior Research Engineer at Uppsala University and part of the Chemical Biology Consortium Sweden. During her Norwegian Forskningsrådet postdoctoral fellowship, she developed high-throughput 3D profiling workflows for solid tumor models, implementing practical solutions to the computational challenges of extracting morphological features from complex 3D systems. She now leads Cell Painting and morphological profiling projects while advancing 3D profiling methods for patient-derived colorectal cancer research.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
