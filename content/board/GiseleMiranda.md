@@ -1,8 +1,8 @@
 ---
 title: "Gisele Miranda"
-tagline: "Board member"
+tagline: "Vice President"
 date: 2023-03-07
-weight: 14
+weight: 1
 cover:
     image: "main_files/boardAvatars/GiseleMiranda.jpg"
     thumbnailInList: true

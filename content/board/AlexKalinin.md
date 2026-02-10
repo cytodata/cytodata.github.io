@@ -1,6 +1,6 @@
 ---
 title: "Alexandr Kalinin"
-tagline: "Vice President"
+tagline: "Board member"
 date: 2023-03-07
 weight: 5
 cover:
