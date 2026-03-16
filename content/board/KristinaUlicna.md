@@ -4,7 +4,7 @@ tagline: "Board member"
 date: 2026-03-12
 weight: 8
 cover:
-    image: "main_files/boardAvatars/KristinaUlicna.png"
+    image: "main_files/boardAvatars/KristinaUlicna.jpg"
     thumbnailInList: true
     relative: true # when using page bundles set this to true
 ---
