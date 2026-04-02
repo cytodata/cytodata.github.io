@@ -27,6 +27,10 @@ menu:
       name: Society
       url: /society
       weight: 40
+    - identifier: selection
+      name: Call for Organizers
+      url: /selection
+      weight: 45
     - identifier: contact
       name: Contact
       url: /contact
